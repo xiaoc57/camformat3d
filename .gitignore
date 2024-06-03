@@ -1,0 +1,10 @@
+
+.vscode/
+
+build/
+camformat3d.egg-info/
+data/
+dist/
+results/
+
+__pycache__/
